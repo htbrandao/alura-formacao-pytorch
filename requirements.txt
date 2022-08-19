@@ -1,0 +1,6 @@
+jupyter
+nltk
+numpy
+pandas
+seaborn
+sklearn
